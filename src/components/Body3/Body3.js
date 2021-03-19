@@ -30,6 +30,7 @@ const Body3 = () => {
       backgroundColor: "#e53167",
       border: "#fff",
       marginTop: "15px",
+      marginBottom:"15px"
     },
   };
 
