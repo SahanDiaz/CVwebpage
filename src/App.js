@@ -1,4 +1,5 @@
 import React from "react";
+import MessengerCustomerChat from "react-messenger-customer-chat";
 import {
   Navbr,
   Body1,
@@ -20,6 +21,10 @@ function App() {
       <Body4 />
       <Body5 />
       <Body6 />
+      <MessengerCustomerChat
+        pageId="109212154590685"
+        appId="440775383659685"
+      />
       <Footer />
     </div>
   );

@@ -3,6 +3,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import { Jumbotron, Container, Row, Col, Image, Button } from "react-bootstrap";
 import image1 from "../../assets/img/image1.png";
 
+
 const Body1 = () => {
   const styles = {
     bg: {
